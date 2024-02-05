@@ -1,0 +1,24 @@
+---
+title: "Measles and Rubella Modelling Workshop"
+output: html_document
+---
+
+**Mon, Feb 5**
+
+* 08:45-09:00: Introduction _(Prof. Siuli Mukhopadhyay)_
+* 09:00-09:45: Country's big leap towards measles and rubella elimination _(Dr. Pawan Kumar)_
+* 09:45-10:15: Congenital rubella surveillance _(Dr. Manoj Muhrekar)_
+* 10:15-10:30: *Tea Break*
+* 10:30-11:00: Sub national level measles modeling and results _(Prof. Siuli Mukhopadhyay and Dr Sagar Pandhare)_
+* 11:00-11:15: Introduction of participants
+* 11:15-12:30: Block 0.1: Epidemiology 101 terms and concepts used in this workshop (workshop_materials/epi101.pdf) _(Mark Jit)_
+* 12:30-13:00: [Block 0.2: Introduction of ID models](workshop_materials/introID.pdf) _(Amy Winter)_
+* 13:00-14:00: *Lunch*
+* 14:00-15:00: [Block 0.2: Introduction of ID models continued](workshop_materials/introID.pdf) _(Amy Winter)_
+* 15:00-15:30: [Block 0.3: Interactive Session I](workshop_materials/IntSes1.pdf) _(Amy Winter)_
+* 15:30-15:45: *Tea Break*
+* 15:30-17:15: Block 1.1: History and current understanding of measles and rubella-specific dynamics (workshop_materials/block1.1.pdf) _(Mark Jit)_
+
+
+
+
