@@ -11,7 +11,7 @@ output: html_document
 * 10:15-10:30: *Tea Break*
 * 10:30-11:00: Sub national level measles modeling and results _(Prof. Siuli Mukhopadhyay and Dr Sagar Pandhare)_
 * 11:00-11:15: Introduction of participants
-* 11:15-12:30: Block 0.1: Epidemiology 101 terms and concepts used in this workshop (workshop_materials/epi101.pdf) _(Mark Jit)_
+* 11:15-12:30: [Block 0.1: Epidemiology 101 terms and concepts used in this workshop](workshop_materials/Epi101.pdf) _(Mark Jit)_
 * 12:30-13:00: [Block 0.2: Introduction of ID models](workshop_materials/introID.pdf) _(Amy Winter)_
 * 13:00-14:00: *Lunch*
 * 14:00-15:00: [Block 0.2: Introduction of ID models continued](workshop_materials/introID.pdf) _(Amy Winter)_
