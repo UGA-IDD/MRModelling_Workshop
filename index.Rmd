@@ -17,7 +17,11 @@ output: html_document
 * 14:00-15:00: [Block 0.2: Introduction of ID models continued](workshop_materials/introID.pdf) _(Amy Winter)_
 * 15:00-15:30: [Block 0.3: Interactive Session I](workshop_materials/IntSes1.pdf) _(Amy Winter)_
 * 15:30-15:45: *Tea Break*
-* 15:30-17:15: Block 1.1: History and current understanding of measles and rubella-specific dynamics (workshop_materials/block1.1.pdf) _(Mark Jit)_
+* 15:30-17:15: [Block 1.1: History and current understanding of measles and rubella-specific dynamics](workshop_materials/block1.1_mark.pdf) _(Mark Jit)_
+
+    Block 1.1 Interactive sessions:
+    [SIR](SIRModel 1base.r) | [SIR + births and deaths](SIRModel 2birthsdeaths.r) | [SIR + vaccination](SIRModel 3birthsdeaths vaccine.r)
+
 
 
 
