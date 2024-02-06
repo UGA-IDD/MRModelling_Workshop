@@ -68,8 +68,7 @@ output: html_document
 * 14:00-15:15: [Block 2.4: Model Fitting Approaches and Challenges - TSIR Model](workshop_materials/block2.4_tsir.pdf) _(Niket Thakkar)_
 
     Block 2.4 Interactive sessions:
-    [Somalia TSIR](workshop_materials/SomaliaTSIR_example.zip) 
-    [UK TSIR](workshop_materials/UKtsir_example.zip)
+    [Somalia TSIR](workshop_materials/SomaliaTSIR_example.zip) | [UK TSIR](workshop_materials/UKtsir_example.zip)
     
 * 15:15-15:30: *Tea Break*
 * 15:30-17:15: Block 2.4: Model Fitting Approaches and Challenges - TSIR Model continued _(Niket Thakkar)_
