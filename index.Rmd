@@ -46,8 +46,33 @@ output: html_document
 
 **Wed, Feb 7**
 
-* morning: [Block 0.3: Interactive Session](workshop_materials/block0.3_interactive.pdf) _(Amy Winter)_
+* 09:00-09:30: Recap _(Matt Ferrari)_
+* 09:30-10:00: [Block 0.3: Interactive Session](workshop_materials/block0.3_interactive.pdf) _(Amy Winter)_
+* 10:00-10:30  [Block 2.1: Model Fitting Approaches and Challenges - Catalytic Model](workshop_materials/block2.1_catalytic.pdf) _(Amy Winter)_
 
+    Block 2.1 Interactive sessions:
+    [Catalytic Model Code](workshop_materials/block2.1_catalytic_OLS.R) | [Rubella Serological Data](workshop_materials/rubella.sero.csv)
+
+* 10:30-10:45: *Tea Break*
+* 10:45-12:00: [Block 2.2: Model Fitting Approaches and Challenges - Dynamic Models and Probability](workshop_materials/block2.2_niket.pdf) _(Niket Thakkar)_
+
+    Block 2.2 Interactive sessions:
+    [Linear Regression Example](workshop_materials/block2.2_LinearRegressionExample.py) 
+    
+* 12:00-13:00: [Block 2.3: Model Fitting Approaches and Challenges - Stochastic Simulation Algorithms](workshop_materials/block2.3_stochastic.pdf) _(Matt Ferrari)_
+
+    Block 2.3 Interactive sessions:
+    [Stochastic Simulation](workshop_materials/block2.3_stochastic.R) 
+    
+* 13:00-14:00: *Lunch*
+* 14:00-15:15: [Block 2.4: Model Fitting Approaches and Challenges - TSIR Model](workshop_materials/block2.4_tsir.pdf) _(Niket Thakkar)_
+
+    Block 2.4 Interactive sessions:
+    [Somalia TSIR](workshop_materials/SomaliaTSIR_example.zip) 
+    [UK TSIR](workshop_materials/UKtsir_example.zip)
+    
+* 15:15-15:30: *Tea Break*
+* 15:30-17:15: Block 2.4: Model Fitting Approaches and Challenges - TSIR Model continued _(Niket Thakkar)_
 
 
 **Thu, Feb 8**
