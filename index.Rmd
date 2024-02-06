@@ -43,8 +43,12 @@ output: html_document
     [Berkeley Modonna Code](workshop_materials/block1.3_code.zip)
 
 
+
 **Wed, Feb 7**
-* xxx: [Block 0.3: Interactive Session](workshop_materials/block0.3_interactive.pdf) _(Amy Winter)_
+
+* morning: [Block 0.3: Interactive Session](workshop_materials/block0.3_interactive.pdf) _(Amy Winter)_
+
+
 
 **Thu, Feb 8**
 
