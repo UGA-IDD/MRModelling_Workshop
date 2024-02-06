@@ -33,9 +33,9 @@ output: html_document
     Block 1.2 Interactive sessions:
     [SIR + births and deaths + seasonality](workshop_materials/SIRModel 2birthsdeaths_seasonality.r) | [SIR + births and deaths + seasonality + RI](workshop_materials/SIRModel 2birthsdeaths_seasonality_vaccination.r) | [SIR + births and deaths + seasonality + RI + SIA](workshop_materials/SIRModel 2birthsdeaths_seasonality_vaccination_SIA.r)
 * 13:00-14:00: *Lunch*
-* 14:00-15:30: Block 1.3: History and current understanding of measles and rubella-specific dynamics _(Emilia Vynnycky)_
+* 14:00-15:30: [Block 1.3: History and current understanding of measles and rubella-specific dynamics - Age Effects](workshop_materials/block1.3_emilia.pdf) _(Emilia Vynnycky)_
 * 15:30-15:45: *Tea Break*
-* 15:45-16:45: Block 1.3: History and current understanding of measles and rubella-specific dynamics _(Emilia Vynnycky)_
+* 15:45-16:45: [Block 1.3: History and current understanding of measles and rubella-specific dynamics - Age Effects](workshop_materials/block1.3_emilia.pdf) _(Emilia Vynnycky)_
 * 16:45-17:15: [Block 0.3: Interactive Session](workshop_materials/IntSes1.pdf) _(Amy Winter)_
 
 **Wed, Feb 7**
