@@ -3,6 +3,8 @@ title: "Measles and Rubella Modelling Workshop"
 output: html_document
 ---
 
+[GOOGLE DOC TO ADD YOUR PROJECT QUESTIONS](https://docs.google.com/document/d/1ByohgaUithjij1el4xC91xxnM9s8zN0P0aJ-uwwumwE/edit)
+
 
 **Mon, Feb 5**
 
@@ -46,7 +48,7 @@ output: html_document
 
 **Wed, Feb 7**
 
-* 09:00-09:30: Recap _(Matt Ferrari)_
+* 09:00-09:30: [Recap](workshop_materials/midworkshop_recap.pdf) _(Matt Ferrari)_
 * 9:30-10:30  [Block 2.1: Model Fitting Approaches and Challenges - Catalytic Model](workshop_materials/block2.1_catalytic.pdf) _(Amy Winter)_
 
     Block 2.1 Interactive sessions:
