@@ -47,8 +47,7 @@ output: html_document
 **Wed, Feb 7**
 
 * 09:00-09:30: Recap _(Matt Ferrari)_
-* 09:30-10:00: [Block 0.3: Interactive Session](workshop_materials/block0.3_interactive.pdf) _(Amy Winter)_
-* 10:00-10:30  [Block 2.1: Model Fitting Approaches and Challenges - Catalytic Model](workshop_materials/block2.1_catalytic.pdf) _(Amy Winter)_
+* 9:30-10:30  [Block 2.1: Model Fitting Approaches and Challenges - Catalytic Model](workshop_materials/block2.1_catalytic.pdf) _(Amy Winter)_
 
     Block 2.1 Interactive sessions:
     [Catalytic Model Code](workshop_materials/block2.1_catalytic_OLS.R) | [Rubella Serological Data](workshop_materials/rubella.sero.csv)
