@@ -58,8 +58,7 @@ output: html_document
 * 10:45-12:00: [Block 2.2: Model Fitting Approaches and Challenges - Dynamic Models and Probability](workshop_materials/block2.2_niket.pdf) _(Niket Thakkar)_
 
     Block 2.2 Interactive sessions:
-    [Linear Regression Example](workshop_materials/block2.2_LinearRegressionExample.py) 
-    [Block 2.2 slides with pseudocode answers](workshop_materials/block2_niket_withanswers.pdf)
+    [Linear Regression Example](workshop_materials/block2.2_LinearRegressionExample.py) | [Block 2.2 slides with pseudocode answers](workshop_materials/block2_niket_withanswers.pdf)
     
 * 12:00-13:00: [Block 2.3: Model Fitting Approaches and Challenges - Stochastic Simulation Algorithms](workshop_materials/block2.3_stochastic.pdf) _(Matt Ferrari)_
 
