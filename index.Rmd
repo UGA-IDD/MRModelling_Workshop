@@ -89,3 +89,8 @@ output: html_document
 * 15:15-15:30: *Tea Break*
 * 15:30-16:45: Group or one on one meetings
 * 16:45-17:15: Closing Thoughts 
+
+
+**Additional Materials**
+
+[Data Analysis Textbook by Sivia](workshop_materials/sivia.pdf)
