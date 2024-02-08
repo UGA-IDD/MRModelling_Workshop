@@ -59,6 +59,7 @@ output: html_document
 
     Block 2.2 Interactive sessions:
     [Linear Regression Example](workshop_materials/block2.2_LinearRegressionExample.py) 
+    [Block 2.2 slides with pseudocode answers](workshop_materials/block2_niket_withanswers.pdf)
     
 * 12:00-13:00: [Block 2.3: Model Fitting Approaches and Challenges - Stochastic Simulation Algorithms](workshop_materials/block2.3_stochastic.pdf) _(Matt Ferrari)_
 
@@ -77,3 +78,14 @@ output: html_document
 
 **Thu, Feb 8**
 
+* 09:00-09:15: Recap Block 2
+* 09:15-10:15: [Block 3.1: Strategic Modelling and Impact Assessment](workshop_materials/block3_pico.pdf) _(Amy Winter)_
+* 10:15-10:30: *Tea Break*
+* 10:30-11:15: [Block 3.1: Interactive Session](workshop_materials/block3_interactive.zip)  _(Matt Ferrari)_
+* 11:15-12:30: Block 3.2: VIMC Models _(VIMC Modellers)_
+* 12:30-13:00: Participant Projects and Modelling Questions
+* 13:00-14:00: *Lunch*
+* 14:00-15:15: Group or one on one meetings
+* 15:15-15:30: *Tea Break*
+* 15:30-16:45: Group or one on one meetings
+* 16:45-17:15: Closing Thoughts 
