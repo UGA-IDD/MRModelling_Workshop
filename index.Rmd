@@ -3,8 +3,6 @@ title: "Measles and Rubella Modelling Workshop"
 output: html_document
 ---
 
-[GOOGLE DOC TO ADD YOUR PROJECT QUESTIONS](https://docs.google.com/document/d/1ByohgaUithjij1el4xC91xxnM9s8zN0P0aJ-uwwumwE/edit)
-
 [PLEASE COMPLETE THIS SURVEY](https://docs.google.com/forms/d/e/1FAIpQLSdzhCps3B0ACvduXo5ukut4XXt-dv7qsdMRUmz-NmCX8p4t5g/viewform)
 
 **Mon, Feb 5**
