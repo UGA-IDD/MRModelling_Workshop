@@ -94,5 +94,3 @@ output: html_document
 [Data Analysis Textbook by Sivia](workshop_materials/sivia.pdf)
 
 [Open questions in M&R Modelling](workshop_materials/OpenQsMRModelling.pdf)
-
-[for abraham](workshop_materials/DHS_Report_GH2022.html)
